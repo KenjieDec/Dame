@@ -1,0 +1,7 @@
+{
+  "gamerule.takeDamage": "Immortal?",
+  "gamerule.potionDamage": "Potions deal damage?",
+  "gamerule.mobsDamage": "Allow mobs to damage you?",
+  "gamerule.damageSelf": "Damage yourself?",
+  "gamerule.damageReceiveMultiplier": "Multiplies damage received"
+}
